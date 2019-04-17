@@ -28,3 +28,14 @@ h1{
     font-family: 'Times New Roman', Times, serif;
     font-size: 24px;
     margin-right: 20px;
+}
+
+.top{
+    background: #262626;
+    border-radius: 4px;
+}
+
+.content{
+    width: 70%;
+    margin: 0 auto;
+    }
