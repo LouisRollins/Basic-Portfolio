@@ -1,0 +1,30 @@
+header{
+    background: darkred;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    padding: 14.5px;
+    text-align: center;
+    border-radius: 4px;
+    display: inline;
+    position: relative;
+    top: 13.5px;
+}
+
+body{
+    background: black;
+    color: white;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 36px;
+    color: white;
+}
+
+.links{
+    color: blue;
+    text-align: right;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    margin-right: 20px;
