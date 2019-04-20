@@ -71,3 +71,18 @@ h2{
         border: black;
         font-weight: bold;
     }
+
+.footer{
+    width: 100%;
+    background: #262626;
+    height: 40px;
+    text-align: center;
+    border-radius: 4px;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+}
+
+span {
+    display: inline-block;
+    vertical-align: middle;
+}
